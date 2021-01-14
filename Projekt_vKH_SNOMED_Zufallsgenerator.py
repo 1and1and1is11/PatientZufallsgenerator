@@ -6,7 +6,7 @@
 #
 # Versionsnummer: V2.0
 #
-# Authoren: Aldo, Haythem, Marvin, Prakhar
+# Autoren: Studenten der THB
 ###############################################################################
 
 
