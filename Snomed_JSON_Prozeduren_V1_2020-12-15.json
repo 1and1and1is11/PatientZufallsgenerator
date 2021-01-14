@@ -1,0 +1,96 @@
+{
+   "Prozeduren": [
+      {
+         "SCTID": "80146002",
+         "name": "Exzision der Anlage (Prozedur)"
+      },
+      {
+         "SCTID": "29303009",
+         "name": "Elektrokardiographisches Verfahren(Prozedur)"
+      },
+      {
+         "SCTID": "77477000",
+         "name": "Computergesteuerte axiale Tomographie(Prozedur)"
+      },
+      {
+         "SCTID": "363680008",
+         "name": "Radiographisches Bildgebungsverfahren (Prozedur)"
+      },
+      {
+         "SCTID": "122548005",
+         "name": "Biopsie der Brust(Prozedur)"
+      },
+      {
+         "SCTID": "66951008",
+         "name": "Karotisendarterektomie(Prozedur)"
+      },
+      {
+         "SCTID": "110473004",
+         "name": "Kataraktchirurgie(Prozedur)"
+      },
+      {
+         "SCTID": "11466000",
+         "name": "Kaiserschnitt(Prozedur)"
+      },
+      {
+         "SCTID": "38102005",
+         "name": "Cholezystektomie(Prozedur)"
+      },
+      {
+         "SCTID": "232717009",
+         "name": "Bypass-Transplantation der Koronararterien(Prozedur)"
+      },
+      {
+         "SCTID": "85875009",
+         "name": "Debridement der Wunde der Haut(Prozedur)"
+      },
+      {
+         "SCTID": "13091001",
+         "name": "Dilatation und K�rettage(Prozedur)"
+      },
+      {
+         "SCTID": "25269004",
+         "name": "Rekonstruktion des Daumens mit freiem hauttransplantat(Prozedur)"
+      },
+      {
+         "SCTID": "24496007",
+         "name": "H�morrhoidektomie(Prozedur)"
+      },
+      {
+         "SCTID": "236886002",
+         "name": "Hysterektomie(Prozedur)"
+      },
+      {
+         "SCTID": "233545006",
+         "name": "Hysteroskopie(Prozedur)"
+      },
+      {
+         "SCTID": "44558001",
+         "name": "Reparatur von Leistenbruch(Prozedur)"
+      },
+      {
+         "SCTID": "69031006",
+         "name": "Exzision von Brustgewebe(Prozedur)"
+      },
+      {
+         "SCTID": "406505007",
+         "name": "Modifizierte Radikale Mastektomie(Prozedur)"
+      },
+      {
+         "SCTID": "43075005",
+         "name": "Teilweise Resektion des Dickdarms(Prozedur)"
+      },
+      {
+         "SCTID": "90470006",
+         "name": "Prostatektomie(Prozedur)"
+      },
+      {
+         "SCTID": "45602008",
+         "name": "Lyse von Adh�sionen des peritoneums(Prozedur)"
+      },
+      {
+         "SCTID": "173422009",
+         "name": "Tonsillektomie(Prozedur)"
+      }
+   ]
+}

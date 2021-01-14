@@ -1,0 +1,68 @@
+{
+   "disease": {
+      "SCTID": "230690007",
+      "name": "Schlaganfall (Störung)",
+      "symptom": [
+         {
+            "SCTID": "44077006",
+            "name": "Taubheit (Befund)"
+         },
+         {
+            "SCTID": "20022000",
+            "name": "Unvollständige Lähmung einer Körperseite (Störung)"
+         },
+         {
+            "SCTID": "7973008",
+            "name": "Anormales Sehen (Befund)"
+         },
+         {
+            "SCTID": "399122003",
+            "name": "Schluckbeschwerden (Befund)"
+         },
+         {
+            "SCTID": "735938006",
+            "name": "Akuter Kopfschmerz (Befund)"
+         },
+         {
+            "SCTID": "22631008",
+            "name": "Unsicher beim Gehen (Befund)"
+         },
+         {
+            "SCTID": "282299006",
+            "name": "Gleichgewichtschwierigkeiten (Befund)"
+         },
+         {
+            "SCTID": "249985001",
+            "name": "Schlechtes Gleichgewicht (Befund)"
+         },
+         {
+            "SCTID": "282302006",
+            "name": "Schwierigkeit Gleichgewicht halten (Befund)"
+         },
+         {
+            "SCTID": "40917007",
+            "name": "Verwirrung(Befund)"
+         },
+         {
+            "SCTID": "286378009",
+            "name": "Schwierigkeit zu sprechen (Befund)"
+         },
+         {
+            "SCTID": "716484005",
+            "name": "Schwierigkeit, verbale Sprache zu verstehen (Befund)"
+         },
+         {
+            "SCTID": "11934000",
+            "name": "Hängendes Augenlid (Störung)"
+         },
+         {
+            "SCTID": "267090004",
+            "name": "Hat hängende Augenlider (Befund)"
+         },
+         {
+            "SCTID": "249328007",
+            "name": "Hängende Nasenspitze (Befund)"
+         }
+      ]
+   }
+}

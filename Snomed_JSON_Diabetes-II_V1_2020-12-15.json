@@ -1,0 +1,56 @@
+{
+   "disease": {
+      "SCTID": "44054006",
+      "name": "Diabetes II (Erkrankung)",
+      "symptom": [
+         {
+            "SCTID": "249477003",
+            "name": "Erhöhter Durst (Befund)"
+         },
+         {
+            "SCTID": "49650001",
+            "name": "Häufiges Wasserlassen (Befund)"
+         },
+         {
+            "SCTID": "272059005",
+            "name": "Extremer Hunger (Befund)"
+         },
+         {
+            "SCTID": "422868009",
+            "name": "Unerklärlicher Gewichtsverlust (Befund)"
+         },
+         {
+            "SCTID": "274783007",
+            "name": "Ketone im Urin (Befund)"
+         },
+         {
+            "SCTID": "84229001",
+            "name": "Ermüdung (Befund)"
+         },
+         {
+            "SCTID": "55929007",
+            "name": "Reizbarkeit (Befund)"
+         },
+         {
+            "SCTID": "4855003",
+            "name": "Unscharfes Sehen (Erkrankung)"
+         },
+         {
+            "SCTID": "789507005",
+            "name": "Langsam heilende Wunden (Befund)"
+         },
+         {
+            "SCTID": "11114002",
+            "name": "Wundes Zahnfleisch (Befund)"
+         },
+         {
+            "SCTID": "19824006",
+            "name": "Hautinfektionen (Erkrankung)"
+         },
+         {
+            "SCTID": "237091009",
+            "name": "Vaginale Infektionen (Störung)"
+         }
+      ]
+   }
+}

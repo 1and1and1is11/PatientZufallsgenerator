@@ -1,0 +1,44 @@
+{
+   "disease": {
+      "SCTID": "61462000",
+      "name": "Malaria (Störung)",
+      "symptom": [
+         {
+            "SCTID": "386661006",
+            "name": "Fieber (Befund)"
+         },
+         {
+            "SCTID": "25064002",
+            "name": "Kopfschmerz (Befund)"
+         },
+         {
+            "SCTID": "422587007",
+            "name": "Übelkeit (Befund)"
+         },
+         {
+            "SCTID": "225586007",
+            "name": "Erbrechen (Befund)"
+         },
+         {
+            "SCTID": "88092000",
+            "name": "Muskelschwund (Störung)"
+         },
+         {
+            "SCTID": "415690000",
+            "name": "Schwitzen (Befund)"
+         },
+         {
+            "SCTID": "29857009",
+            "name": "Brustschmerz (Befund)"
+         },
+         {
+            "SCTID": "21522001",
+            "name": "Bauchschmerzen (Befund)"
+         },
+         {
+            "SCTID": "49727002",
+            "name": "Husten (Befund)"
+         }
+      ]
+   }
+}

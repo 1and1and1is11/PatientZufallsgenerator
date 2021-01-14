@@ -1,0 +1,48 @@
+{
+   "disease": {
+      "SCTID": "230690007",
+      "name": "Herzinfarkt (Störung)",
+      "symptom": [
+         {
+            "SCTID": "194828000",
+            "name": "Angina (Störung)"
+         },
+         {
+            "SCTID": "4568003",
+            "name": "Retrosternalschmerzen (Befund)"
+         },
+         {
+            "SCTID": "6617009",
+            "name": "Fehlgeleiteter Schmerz (Befund)"
+         },
+         {
+            "SCTID": "449313005",
+            "name": "Fehlgeleitete Schmerzen im Gesicht (Befund)"
+         },
+         {
+            "SCTID": "67849003",
+            "name": "Vernichtungsschmerz (Befund)"
+         },
+         {
+            "SCTID": "267036007",
+            "name": "Atemnot (Befund)"
+         },
+         {
+            "SCTID": "698247007",
+            "name": "Herzrhythmusstörungen (Störung)"
+         },
+         {
+            "SCTID": "404640003",
+            "name": "Schwindel (Befund)"
+         },
+         {
+            "SCTID": "418107008",
+            "name": "Bewusstlosigkeit (Befund)"
+         },
+         {
+            "SCTID": "422587007",
+            "name": "Übelkeit (Befund)"
+         }
+      ]
+   }
+}

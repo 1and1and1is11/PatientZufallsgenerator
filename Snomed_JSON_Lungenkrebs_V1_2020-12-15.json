@@ -1,0 +1,44 @@
+{
+   "disease": {
+      "SCTID": "93880001",
+      "name": "Lungenkrebs (Störung)",
+      "symptom": [
+         {
+            "SCTID": "68154008",
+            "name": "Chronischer Husten (Befund)"
+         },
+         {
+            "SCTID": "66857006",
+            "name": "Bluthusten (Befund)"
+         },
+         {
+            "SCTID": "267036007",
+            "name": "Atemnot (Befund)"
+         },
+         {
+            "SCTID": "29857009",
+            "name": "Brustschmerzen (Befund)"
+         },
+         {
+            "SCTID": "16617009",
+            "name": "Heiserkeit (Störung)"
+         },
+         {
+            "SCTID": "422868009",
+            "name": "Gewichtsverlust, ohne Zutun (Befund)"
+         },
+         {
+            "SCTID": "12584003",
+            "name": "Knochenschmerzen (Befund)"
+         },
+         {
+            "SCTID": "25064002",
+            "name": "Kopfschmerz (Befund)"
+         },
+         {
+            "SCTID": "3253007",
+            "name": "Hautverfärbung (Befund)"
+         }
+      ]
+   }
+}

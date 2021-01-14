@@ -1,0 +1,64 @@
+{
+   "NursingInterventions": [
+      {
+         "Name": "Sleep pattern control",
+         "SCTID": "386441009"
+      },
+      {
+         "Name": "Mobility therapy",
+         "SCTID": "370867005"
+      },
+      {
+         "Name": "Dietary compliance education",
+         "SCTID": "410114009"
+      },
+      {
+         "Name": "Infection control",
+         "SCTID": "77248004"
+      },
+      {
+         "Name": "Alcohol abuse control",
+         "SCTID": "408945004"
+      },
+      {
+         "Name": "Positioning therapy",
+         "SCTID": "229824005"
+      },
+      {
+         "Name": "Bedbound care",
+         "SCTID": "385884006"
+      },
+      {
+         "Name": "Energy conservation",
+         "SCTID": "385688007"
+      },
+      {
+         "Name": "Postpartum care",
+         "SCTID": "133906008"
+      },
+      {
+         "Name": "stress control",
+         "SCTID": "226060000"
+      },
+      {
+         "Name": "Crisis intervention",
+         "SCTID": "24172008"
+      },
+      {
+         "Name": "Terminal care",
+         "SCTID": "182964004"
+      },
+      {
+         "Name": "hospice care",
+         "SCTID": "385763009"
+      },
+      {
+         "Name": "Bereavement support",
+         "SCTID": "395076009"
+      },
+      {
+         "Name": "Meals on wheels",
+         "SCTID": "160778009"
+      }
+   ]
+}

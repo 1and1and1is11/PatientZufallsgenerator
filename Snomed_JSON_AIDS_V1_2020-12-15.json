@@ -1,0 +1,84 @@
+{
+   "disease": {
+      "SCTID": "62479008",
+      "name": "AIDS (Störung)",
+      "symptom": [
+         {
+            "SCTID": "386661006",
+            "name": "Fieber (Befund)"
+         },
+         {
+            "SCTID": "43724002",
+            "name": "Schüttelfrost (Befund)"
+         },
+         {
+            "SCTID": "271807003",
+            "name": "Hautausschlag (Störung)"
+         },
+         {
+            "SCTID": "42984000",
+            "name": "Nächtliche Schweißausbrüche (Befund)"
+         },
+         {
+            "SCTID": "68962001",
+            "name": "Muskelschmerzen (Befund)"
+         },
+         {
+            "SCTID": "162397003",
+            "name": "Schmerzen im Rachenraum (Befund)"
+         },
+         {
+            "SCTID": "84229001",
+            "name": "Ermüdung (Befund)"
+         },
+         {
+            "SCTID": "30746006",
+            "name": "Geschwollene Lymphknoten  (Störung)"
+         },
+         {
+            "SCTID": "26284000",
+            "name": "Mundgeschwür (Störung)"
+         },
+         {
+            "SCTID": "426977000",
+            "name": "Kurzzeitige Gewichtsabnahme (Befund)"
+         },
+         {
+            "SCTID": "267032009",
+            "name": "Ständig müde (Befund)"
+         },
+         {
+            "SCTID": "62315008",
+            "name": "Durchfall (Befund)"
+         },
+         {
+            "SCTID": "162011005",
+            "name": "Wunder Mund (Befund)"
+         },
+         {
+            "SCTID": "30037006",
+            "name": "Analfissur (Störung)"
+         },
+         {
+            "SCTID": "233604007",
+            "name": "Lungenentzündung (Störung)"
+         },
+         {
+            "SCTID": "271813007",
+            "name": "Petechien (Befund)"
+         },
+         {
+            "SCTID": "48167000",
+            "name": "Gedächtnisschwund (Befund)"
+         },
+         {
+            "SCTID": "35489007",
+            "name": "Depressive Störungen (Störung)"
+         },
+         {
+            "SCTID": "118940003",
+            "name": "Störung des Nervensystems (Störung)"
+         }
+      ]
+   }
+}

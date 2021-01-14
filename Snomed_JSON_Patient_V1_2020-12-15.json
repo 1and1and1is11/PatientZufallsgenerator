@@ -1,0 +1,61 @@
+{
+   "Patientendaten": [
+     {
+        "Name": "AIDS",
+        "Alter": "20",
+        "MGeschlecht": "77.8",
+        "WGeschlecht": "21.9",
+        "DGeschlecht": "0.3"
+     },
+     {
+        "Name": "COVID-19",
+        "Alter": "60",
+        "MGeschlecht": "-1",
+        "WGeschlecht": "-1",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Diabetes II",
+        "Alter": "50",
+        "MGeschlecht": "48.61",
+        "WGeschlecht": "51.39",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Grippe",
+        "Alter": "60",
+        "MGeschlecht": "-1",
+        "WGeschlecht": "-1",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Herzinfarkt",
+        "Alter": "50",
+        "MGeschlecht": "-1",
+        "WGeschlecht": "-1",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Lungenkrebs",
+        "Alter": "50",
+        "MGeschlecht": "66.67",
+        "WGeschlecht": "33.33",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Malaria",
+        "Alter": "-1",
+        "MGeschlecht": "-1",
+        "WGeschlecht": "-1",
+        "DGeschlecht": "-1"
+     },
+     {
+        "Name": "Schlaganfall",
+        "Alter": "50",
+        "MGeschlecht": "57.56",
+        "WGeschlecht": "42.44",
+        "DGeschlecht": "-1"
+     }
+
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "disease": {
+      "SCTID": "840539006",
+      "name": "COVID-19 (Erkrankung)",
+      "symptom": [
+         {
+            "SCTID": "386661006",
+            "name": "Fieber oder Erkältung (Befund)"
+         },
+         {
+            "SCTID": "49727002",
+            "name": "Husten (Befund)"
+         },
+         {
+            "SCTID": "86684002",
+            "name": "Langsame Atmung (Befund)"
+         },
+         {
+            "SCTID": "267036007",
+            "name": "Atemnot (Befund)"
+         },
+         {
+            "SCTID": "84229001",
+            "name": "Ermüdung (Befund)"
+         },
+         {
+            "SCTID": "88092000",
+            "name": "Muskelatrophie (Störung)"
+         },
+         {
+            "SCTID": "25064002",
+            "name": "Kopfschmerz (Befund)"
+         },
+         {
+            "SCTID": "36955009",
+            "name": "Geschmacksverlust (Befund)"
+         },
+         {
+            "SCTID": "44169009",
+            "name": "Verlust des Geruchssinns (Befund)"
+         },
+         {
+            "SCTID": "162397003",
+            "name": "Halsschmerzen (Befund)"
+         },
+         {
+            "SCTID": "64531003",
+            "name": "Nasenausfluss (Befund)"
+         },
+         {
+            "SCTID": "422587007",
+            "name": "Übelkeit (Befund)"
+         },
+         {
+            "SCTID": "225586007",
+            "name": "Erbrechen (Befund)"
+         },
+         {
+            "SCTID": "62315008",
+            "name": "Durchfall (Befund)"
+         }
+      ]
+   }
+}

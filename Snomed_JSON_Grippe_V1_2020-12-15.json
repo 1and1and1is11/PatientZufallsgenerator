@@ -1,0 +1,44 @@
+{
+   "disease": {
+      "SCTID": "6142004",
+      "name": "Grippe (Störung)",
+      "symptom": [
+         {
+            "SCTID": "386661006",
+            "name": "Fieber (Befund)"
+         },
+         {
+            "SCTID": "49727002",
+            "name": "Husten (Befund)"
+         },
+         {
+            "SCTID": "405737000",
+            "name": "Wunder Rachenraum (Störung)"
+         },
+         {
+            "SCTID": "64531003",
+            "name": "Laufende Nase (Befund)"
+         },
+         {
+            "SCTID": "68962001",
+            "name": "Muskelschmerz (Befund)"
+         },
+         {
+            "SCTID": "25064002",
+            "name": "Kopfschmerzen (Befund)"
+         },
+         {
+            "SCTID": "84229001",
+            "name": "Müdigkeit (Befund)"
+         },
+         {
+            "SCTID": "422400008",
+            "name": "Erbrechen (Störung)"
+         },
+         {
+            "SCTID": "62315008",
+            "name": "Durchfall (Befund)"
+         }
+      ]
+   }
+}
