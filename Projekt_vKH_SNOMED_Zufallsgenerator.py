@@ -147,15 +147,11 @@ print('3 zufaellige Symptome:')
 while i < 3:
   randomSymptomAids = random.choice(list(namenSymptomeAids))
   if randomSymptomAids in randomNames:
-      print('duplicate')
+      print('Es gab ein Duplikat, das ersetzt wurde.')
   else:
       randomNames.append(randomSymptomAids)
       i = i + 1
-  print(randomSymptomAids)
-
-print()
 
  # Ausgabe der Symptomliste
-print('3 zufaellige Symptome als Array:')
 randomNames = list(set(randomNames))
 print(randomNames)
